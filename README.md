@@ -1,2 +1,5 @@
 # FizzBuzz
- FizzBuzz Algorithm
+
+FizzBuzz Algorithm
+
+My own code created before looking at any solutions
